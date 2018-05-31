@@ -9,3 +9,4 @@ function addDiv(node, className, id, msg) {
 }
 
 addDiv("div", "app", "app", "Hello!!!");
+addDiv("span", "string", "app", "Hello!!!")
